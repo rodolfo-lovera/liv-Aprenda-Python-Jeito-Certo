@@ -41,23 +41,23 @@ Cada capítulo mostra um exercício, aborda os detalhes da linguagem e sugere al
 - EXERCÍCIO 23 - Strings, Bytes e Codificações de Caracteres
 - EXERCÍCIO 24 - Mais Prática
 - EXERCÍCIO 25 - Mais Prática Ainda
-- EXERCÍCIO 26 - Parabéns, Faça um Teste!
-- EXERCÍCIO 27 - Memorizando a Lógica
-- EXERCÍCIO 28 - Prática com Booleanos
-- EXERCÍCIO 29 - A Instrução If
-- EXERCÍCIO 30 - Else e If
-- EXERCÍCIO 31 - Tomando Decisões
-- EXERCÍCIO 32 - Loops e Listas
-- EXERCÍCIO 33 - Loops While
+- EXERCÍCIO 26 - Parabéns, Faça um Teste!: O exercício é a correção de um código escrito com diversos erros.
+- EXERCÍCIO 27 - Memorizando a Lógica: Neste capítulo é introduzido o conceito de lógica booleana e recomenda-se que as tabelas das operações lógicas sejam decoradas.
+- EXERCÍCIO 28 - Prática com Booleanos; Continuação do exercício anterior mas com cálculos booleanos
+- EXERCÍCIO 29 - A Instrução If: Apresentação da estrutura condicional simples
+- EXERCÍCIO 30 - Else e If: Utilização da estrutura condicional composta e encadeada
+- EXERCÍCIO 31 - Tomando Decisões: Um modo de criar decisões com estruturas encadeadas
+- EXERCÍCIO 32 - Loops e Listas: como repetir trechos de códigos
+- EXERCÍCIO 33 - Loops While: como repetir trechos de códigos
 - EXERCÍCIO 34 - Acessando os Elementos das Listas
 - EXERCÍCIO 35 - Desvios e Funções
-- EXERCÍCIO 36 - Criando e Depurando
+- EXERCÍCIO 36 - Criando e Depurando: Orientações de como deve see realizadas as estruturas condicionais e de repetição
 - EXERCÍCIO 37 - Revisão dos Símbolos
-- EXERCICIO 38 - Fazendo Coisas com Listas
-- EXERCÍCIO 39 - Dicionários, Ah, os Adoráveis Dicionários
-- EXERCÍCIO 40 - Módulos, Classes e Objetos
-- EXERCÍCIO 41 - Aprendendo o Jargão da Orientação a Objetos
-- EXERCÍCIO 42 - É-Um, Tem-Um, Objetos e Classes
+- EXERCICIO 38 - Fazendo Coisas com Listas: usando listas e alguns poucos métodos de listas
+- EXERCÍCIO 39 - Dicionários, Ah, os Adoráveis Dicionários: Mostra como usar os dicionários
+- EXERCÍCIO 40 - Módulos, Classes e Objetos: introdução à orientação a Objetos
+- EXERCÍCIO 41 - Aprendendo o Jargão da Orientação a Objetos: Nomeclaturas do POO
+- EXERCÍCIO 42 - É-Um, Tem-Um, Objetos e Classes: Continuação das nomeclaturas
 - EXERCÍCIO 43 - Básico de Análise e Design Orientados a Objetos
 - EXERCÍCIO 44 - Herança versus Composição
 - EXERCÍCIO 45 - Você Cria um Jogo
