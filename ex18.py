@@ -1,6 +1,6 @@
 # essa aqui é como seus scripts com argv
 def print_two(*args): #permite a entrada de muitos argumento, semelhantes a uma lista
-    arg1, arg2 = args
+    arg1, arg2 = args # descompacta os argumentos: separa e envia os conteúdos da lista em duas variáveis
     print(f"arg1: {arg1}, arg2: {arg2}")
 
 # ok, aquele *args é desnecessário, podemos simplesmente fazer isso

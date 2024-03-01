@@ -1,4 +1,4 @@
-print("How old are you?", end=' ')
+print("How old are you?", end=' ')# o final serve para não pular linha e haver o prompt na mesma linha
 age = input()
 print("How tall are you?", end= ' ')
 height = input()

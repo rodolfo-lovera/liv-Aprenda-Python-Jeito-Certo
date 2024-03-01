@@ -1,4 +1,4 @@
-import sys  #tratamento normal de argumentos
+import sys  # importação de funcionalidades
 script, encoding, error = sys.argv # para entrada de prompts
 
 

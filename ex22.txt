@@ -1,0 +1,81 @@
+Este é um resumo do que aprendi até o momento.
+
+EXERCÍCIO 1 - Um Bom Programa Inicial
+    print(valor): imprime o valor na tela, sendo que o valor pode ser texto, variável, operações
+
+EXERCÍCIO 2 - Comentários e Cerquilhas
+    # este símbolo permitir inserir textos que serão ignorados pelo compilador
+
+EXERCÍCIO 3 - Números e Matemática
+    nenhum comando novo mas mostra como imprimir operações aritméticas
+
+EXERCÍCIO 4 - Variáveis e Nomes
+    nomeVariável = valor: como declarar variáveis, e atribuir um valor inicial a elas,
+        sendo possível atribuir texto, números, operações aritméticas e outras
+        variáveis
+    
+EXERCÍCIO 5 - Mais Variáveis e Impressão
+    print(f"texto {variável} mais texto {outra variável}): Uma forma de concatenar texto com o valor
+        de variáveis
+
+EXERCÍCIO 6 - Strings e Texto
+    print("Algum texto e um espaço com {}".format(nomeVariavel)): Outra forma de concatenar texto com variáveis
+
+EXERCÍCIO 7 - Mais Impressão
+    Exercício para praticar os prints e armazenamento em variáveis
+
+EXERCÍCIO 8 - Imprimindo, Imprimindo
+    Exercício para praticar os prints e armazenamento em variáveis
+
+EXERCÍCIO 9 - Imprimindo, Imprimindo, Imprimindo
+    Exercício para praticar os prints e armazenamento em variáveis
+
+EXERCÍCIO 10 - O que Foi Isso?
+    \n : pular linha
+    \t : cria lista ordenada
+    \\ : mostra a barra invertiva
+    existem outra formas de mostrar caracteres especiais
+
+EXERCÍCIO 11 - Fazendo Perguntas
+    input(Algum texto para ser mostrado na tela): entrada de dados, podendo ser usado para armazer dados em variáveis
+
+EXERCÍCIO 12 - Perguntando às Pessoas
+    Exercício para praticar a entrada de dados
+
+EXERCÍCIO 13 - Parâmetros, Descompactação, Variáveis
+    from sys import argv: importação de funcionalidade
+        sys: biblioteca
+        argv: funcionalidade da biblioteca para entrada de dados da execução do programa
+    script, var1, var2, varN = argv: envia os argumentos passado na chamada do programa para cada uma das variáveis
+
+EXERCÍCIO 14 - Prompt e Passagem
+    Exercício para praticar os comando executados
+
+EXERCÍCIO 15 - Lendo Arquivos
+    nomeVariavel = open(nomeArquivo): atribui a uma variável a abertura de um arquivo
+    nomeVariavel.read(): faz a abertura de um arquivo e sua leitura
+
+EXERCÍCIO 16 - Lendo e Gravando Arquivos
+    nomeVariavel = open(nomeArquivo, 'w'): atribui a uma variável o método de abertura de arquivo no modo escrita
+    nomeVariavel.truncate(): limpa o arquivo
+    nomeVariavel.write(valor): escreve o valor dentro do arquivo
+    nomeVariavel.Close(): método que faz o fechamento do arquivo
+
+EXERCÍCIO 17 - Mais Arquivos
+    from os.path import exists: importação da funcionalidade exist, que verifica se um arquivo existe
+    len(nomeArquivo): verifica o tamanho de um arquivo
+
+EXERCÍCIO 18 - Nomes, Variáveis, Código, Funções
+    def nome_função(comOuSemParametros): criação de função que pode ser executada em qualquer ponto do Código
+    nome_função(comOuSemParametros): forma de executar a função dentro do Código
+
+EXERCÍCIO 19 - Funções e Variáveis
+    Exercício de prática dos comando executados
+
+EXERCÍCIO 20 - Funções e Arquivos
+        nomeArquivo.seek(0): método amarrado em um arquivo para levar o curso para o início do arquivo
+    
+EXERCÍCIO 21 - As Funções podem retornar algo
+    def nome_função(Parametros):
+        linhas de códigos
+        return valor: este comando envia o valor para a execução do código principal

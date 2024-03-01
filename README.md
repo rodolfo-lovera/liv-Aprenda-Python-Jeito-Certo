@@ -16,34 +16,34 @@ Este repositório segue o desenvolvimento dos exercícios abordados em cada cap�
 Cada capítulo mostra um exercício, aborda os detalhes da linguagem e sugere alguns práticas.
 
 ### Listagem de exercícios deste repositório
-- EXERCÍCIO 1 - Um Bom Programa Inicial
-- EXERCÍCIO 2 - Comentários e Cerquilhas
-- EXERCÍCIO 3 - Números e Matemática
-- EXERCÍCIO 4 - Variáveis e Nomes
-- EXERCÍCIO 5 - Mais Variáveis e Impressão
-- EXERCÍCIO 6 - Strings e Texto
-- EXERCÍCIO 7 - Mais Impressão
-- EXERCÍCIO 8 - Imprimindo, Imprimindo
-- EXERCÍCIO 9 - Imprimindo, Imprimindo, Imprimindo
-- EXERCÍCIO 10 - O que Foi Isso?
-- EXERCÍCIO 11 - Fazendo Perguntas
-- EXERCÍCIO 12 - Perguntando às Pessoas
-- EXERCÍCIO 13 - Parâmetros, Descompactação, Variáveis
-- EXERCÍCIO 14 - Prompt e Passagem
-- EXERCÍCIO 15 - Lendo Arquivos
-- EXERCÍCIO 16 - Lendo e Gravando Arquivos
-- EXERCÍCIO 17 - Mais Arquivos
-- EXERCÍCIO 18 - Nomes, Variáveis, Código, Funções
-- EXERCÍCIO 19 - Funções e Variáveis
-- EXERCÍCIO 20 - Funções e Arquivos
-- EXERCÍCIO 21 - As Funções Podem Retornar Algo
-- EXERCÍCIO 22 - O que Você Sabeaté Agora?
-- EXERCÍCIO 23 - Strings, Bytes e Codificações de Caracteres
-- EXERCÍCIO 24 - Mais Prática
-- EXERCÍCIO 25 - Mais Prática Ainda
+- EXERCÍCIO 1 - Um Bom Programa Inicial: O primeiro passo para usar linhas de código em alguma linguagem (saída de dados);
+- EXERCÍCIO 2 - Comentários e Cerquilhas: Compreender o uso de comentários para minhas linha de códigos;
+- EXERCÍCIO 3 - Números e Matemática: Primeiras operações matemáticas, dentro da instrução de saída dados;
+- EXERCÍCIO 4 - Variáveis e Nomes: Como declarar variáveis e seus rótulos;
+- EXERCÍCIO 5 - Mais Variáveis e Impressão: Concatenação de variáveis mais texto, uma forma de usar a saída de dados com variáveis;
+- EXERCÍCIO 6 - Strings e Texto: algumas variáveis, um pouco, complexas e um pouco de trabalho com Strings dentro de Strings;
+- EXERCÍCIO 7 - Mais Impressão: apenas para práticas a digitação e alguns conceitos sobre impressão de strings
+- EXERCÍCIO 8 - Imprimindo, Imprimindo: Formatação de strings de forma mais complexa
+- EXERCÍCIO 9 - Imprimindo, Imprimindo, Imprimindo: Praticando as formas de imprimir strings.
+- EXERCÍCIO 10 - O que Foi Isso?: Imprimindo caracteres especiais com \(escape) + alguma coisa
+- EXERCÍCIO 11 - Fazendo Perguntas: Entrada de dados e utilização de variáveis
+- EXERCÍCIO 12 - Perguntando às Pessoas: Comando input com prompt
+- EXERCÍCIO 13 - Parâmetros, Descompactação, Variáveis: Como usar comandos no prompt na execução do código
+- EXERCÍCIO 14 - Prompt e Passagem: Utilização de entrada de dados e variáveis de maneira diferente
+- EXERCÍCIO 15 - Lendo Arquivos: Como realizar a abertura e inserção de dados em um arquivo
+- EXERCÍCIO 16 - Lendo e Gravando Arquivos: Como realizar a escrita em um arquivo txt
+- EXERCÍCIO 17 - Mais Arquivos: Mostra uma forma de copiar conteúdo de arquivo
+- EXERCÍCIO 18 - Nomes, Variáveis, Código, Funções: Introdução às funções
+- EXERCÍCIO 19 - Funções e Variáveis: Trabalhar com funções e variáveis como parametros
+- EXERCÍCIO 20 - Funções e Arquivos: Usando funções para abertura e leitura de arquivos
+- EXERCÍCIO 21 - As Funções Podem Retornar Algo: usando funções para retornar valores
+- EXERCÍCIO 22 - O que Você Sabe até Agora?: Resumo do que aprendi nos exercícios anteriores. Este é um arquivo txt
+- EXERCÍCIO 23 - Strings, Bytes e Codificações de Caracteres: um exercício que mostra como funciona a codificação de strings
+- EXERCÍCIO 24 - Mais Prática: Prática do que foi visto até o momento
+- EXERCÍCIO 25 - Mais Prática Ainda: Prática do que foi visto até o momento
 - EXERCÍCIO 26 - Parabéns, Faça um Teste!: O exercício é a correção de um código escrito com diversos erros.
 - EXERCÍCIO 27 - Memorizando a Lógica: Neste capítulo é introduzido o conceito de lógica booleana e recomenda-se que as tabelas das operações lógicas sejam decoradas.
-- EXERCÍCIO 28 - Prática com Booleanos; Continuação do exercício anterior mas com cálculos booleanos
+- EXERCÍCIO 28 - Prática com Booleanos: Continuação do exercício anterior mas com cálculos booleanos
 - EXERCÍCIO 29 - A Instrução If: Apresentação da estrutura condicional simples
 - EXERCÍCIO 30 - Else e If: Utilização da estrutura condicional composta e encadeada
 - EXERCÍCIO 31 - Tomando Decisões: Um modo de criar decisões com estruturas encadeadas

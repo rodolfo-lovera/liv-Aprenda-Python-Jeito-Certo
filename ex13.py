@@ -1,4 +1,4 @@
-from sys import argv # módulo para entrada de dados na execução do arquivo
+from sys import argv # importa um módulo para entrada de dados na execução do arquivo
 #leia a seção 0 que você deve ver para saber como executar isso
 script, first, second, third = argv # irá transformar os dados digitados em uma lista.
 
